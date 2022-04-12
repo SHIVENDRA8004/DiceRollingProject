@@ -1,7 +1,7 @@
 var a = Math.random();
 var b = Math.random();
-a = a * 7;
-b = b * 7;
+a = a * 6;
+b = b * 6;
 var randomNumber1=Math.floor(a);
 var randomNumber2=Math.floor(b);
 switch(randomNumber1){
