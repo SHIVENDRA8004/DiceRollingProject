@@ -8,46 +8,32 @@ function onClick() {
   var randomNumber2 = Math.floor(b);
   switch (randomNumber1) {
     case 0:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice1.png");
+      document.querySelector(".img1").setAttribute("src", "dice1.png");
       break;
 
     case 1:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice2.png");
+      document.querySelector(".img1").setAttribute("src", "dice2.png");
       break;
 
     case 2:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice3.png");
+      document.querySelector(".img1").setAttribute("src", "dice3.png");
       break;
 
     case 3:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice4.png");
+      document.querySelector(".img1").setAttribute("src", "dice4.png");
       break;
 
     case 4:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice5.png");
+      document.querySelector(".img1").setAttribute("src", "dice5.png");
       break;
 
     case 5:
-      document
-        .querySelector(".img1")
-        .setAttribute("src", "dice6.png");
+      document.querySelector(".img1").setAttribute("src", "dice6.png");
       break;
   }
   switch (randomNumber2) {
     case 0:
-      document
-        .querySelector(".img2")
-        .setAttribute("src", "dice1.png");
+      document.querySelector(".img2").setAttribute("src", "dice1.png");
       break;
 
     case 1:
@@ -55,24 +41,19 @@ function onClick() {
       break;
 
     case 2:
-      document
-        .querySelector(".img2").setAttribute("src", "dice3.png");
+      document.querySelector(".img2").setAttribute("src", "dice3.png");
       break;
 
     case 3:
-      document
-        .querySelector(".img2").setAttribute("src", "dice4.png");
+      document.querySelector(".img2").setAttribute("src", "dice4.png");
       break;
 
     case 4:
-      document
-        .querySelector(".img2").setAttribute("src", "dice5.png");
+      document.querySelector(".img2").setAttribute("src", "dice5.png");
       break;
 
     case 5:
-      document
-        .querySelector(".img2")
-        .setAttribute("src", "dice6.png");
+      document.querySelector(".img2").setAttribute("src", "dice6.png");
       break;
   }
   if (randomNumber1 > randomNumber2) {
