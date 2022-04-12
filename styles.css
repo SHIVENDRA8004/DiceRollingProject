@@ -1,63 +1,60 @@
 body{
-  background-color: #222831;
-  color: #00C6B9;
+    background-color: #222831;
+    color: #00C6B9;
 }
 .div1{
-  text-align: center;
-  width: 70%;
-  margin: auto;
+    text-align: center;
+    width: 70%;
+    margin: auto;
 }
 .div2{
-  text-align: center;
-  display: inline-block;
+    text-align: center;
+    display: inline-block;
 }
 h1{
-  margin: 30px;
-  font-family: 'Lobster', cursive;
-  font-weight: bold;
-  font-size: 6em;
-  text-shadow: 5px 3px 3px #083f3b, 2px 1px 3px #172625;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    font-size: 6em;
+    text-shadow: 5px 3px 3px #083f3b, 2px 1px 3px #172625;
 }
 .div4{
-  margin-top: 4%;
+    margin-top: 4%;
 }
 .text{
-  font-size: 3em;
-  font-weight: bold;
-  font-family: 'Rubik Wet Paint', cursive;
-  margin: 0px;
-  padding: 0px;
+    font-size: 3em;
+    font-family: 'Rubik Microbe', cursive;
+    margin: 0px;
+    padding: 0px;
 }
 p{
-  font-size: 3em;
-  font-weight: bold;
-  font-family: 'Rubik Wet Paint', cursive;
-  margin: 0px;
-  padding: 0px;
+    font-size: 3em;
+    font-family: 'Rubik Microbe', cursive;
+    margin: 0px;
+    padding: 0px;
 }
 img{
-  margin-top: 10%;
-  width: 60%;
+    margin-top: 10%;
+    width: 60%;
 }
 .div3{
-  margin-top: 2%;
-  text-align: center;
+    margin-top: 2%;
+    text-align: center;
 }
 button{
-  background-color: #00C6B9;
-  color: #222831;
-  height: 50px;
-  width: 100px;
-  border-radius: 25px;
-  border: #00C6B9;
-  font-family:  'Lobster', cursive;
-  font-weight: bold;
+    background-color: #00C6B9;
+    color: #222831;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    border: #00C6B9;
+    font-family:  'Lobster', cursive;
+    font-weight: bold;
 }
 footer{
-  font-family: 'Rubik Wet Paint', cursive;
-  margin-top: 5%;
-  text-align: center;
+    font-family: 'Rubik Microbe', cursive;
+    margin-top: 5%;
+    text-align: center;
 }
 .ok{
-  font-size: 1em;
+    font-size: 1em;
 }
